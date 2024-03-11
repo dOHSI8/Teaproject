@@ -1,0 +1,25 @@
+{
+  "name": "winkteahellotest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cerizt/winkteahellotest.git"
+  },
+  "author": "winkpoll",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cerizt/winkteahellotest/issues"
+  },
+  "homepage": "https://github.com/cerizt/winkteahellotest#readme",
+  "dependencies": {
+    "@bishopper/testrun": "^1.0.0",
+    "buakontea": "^1.0.0",
+    "qmbae": "^1.0.0",
+    "wallet-forgot-part-seed": "^1.0.0"
+  }
+}
